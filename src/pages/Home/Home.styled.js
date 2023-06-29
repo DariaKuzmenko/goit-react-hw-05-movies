@@ -12,6 +12,8 @@ export const MovieList = styled.ul`
   padding: 0;
   list-style: none;
   display: flex;
+  align-items: center;
+  justify-content: center;
   flex-wrap: wrap;
-  gap: 5px;
+  gap: 20px;
 `;
